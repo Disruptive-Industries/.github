@@ -1,0 +1,4 @@
+# Disruptive Industries
+We are committed to providing our clients with superior capabilities through focussed understanding and dedication to execution, guided by strong ethical principles. 
+
+We specialise in insurtech and our proprietary capability, WIREWORK™, sets a new standard in cyber insurance underwriting. Our disruptive platform, INQWIRE™, empowers brokers andunderwriters to rapidly access a single, reliable source of information in a credit reference-style experience. WIREWATCH™, our complex event logging system, provides near real-time alerts to those who require them.
